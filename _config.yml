@@ -1,0 +1,23 @@
+name: MadTriumph
+favicon: null
+layout_spectrum: 0.9056440752465278
+typography_spectrum: 0.8598521309904754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4598681575153023
+  lightness: 0.346542653394863
+  saturation: 0.8982400987297297
+  rhythmicContrast: 0.033933829981833696
+purpose: []
